@@ -34,15 +34,27 @@ nav a:hover{
     background-color: #fff;
     color:#4a4a4f;
 }
+#contain_cards{
+    margin: 0 auto;
+    width: 90%;
+    left: 150;
+    height: 90%;
+    padding-bottom: 50px;
+   
+}
 
 .card{
     float: left;
-    width: 25%;
-    margin-left: 10%;
+    width: 30%;
+    margin-left: 3%;
+   
 }
+
 
 .card a{
     text-align: center;
+
+
 }
 
 img {
@@ -54,3 +66,4 @@ img {
 h1{
     text-align: center;
 }
+
